@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/vinodsivagnanam-pm/test-storefront-6-25-25/
+    url: https://content.da.live/vinodsivagnanam-pm/test2-storefront-6-25-25/
     type: markup
 
 folders:
